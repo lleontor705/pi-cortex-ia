@@ -51,6 +51,12 @@
     "dim": "dim",
     "text": "text",
     "thinkingText": "muted",
+
+    "scrollbarTrack": "borderSubtle",
+    "scrollbarThumb": "muted",
+    "searchMatchBg": "selection",
+    "searchMatchText": "text",
+
     "selectedBg": "selection",
     "userMessageBg": "bgElement",
     "userMessageText": "text",
@@ -62,6 +68,45 @@
     "toolErrorBg": "toolErrorBg",
     "toolTitle": "accent",
     "toolOutput": "text",
-    "bashModePrompt": "accent"
+
+    "mdHeading": "heading",
+    "mdLink": "accent",
+    "mdLinkUrl": "dim",
+    "mdCode": "syntaxString",
+    "mdCodeBlock": "accent",
+    "mdCodeBlockBorder": "borderSubtle",
+    "mdQuote": "muted",
+    "mdQuoteBorder": "accent",
+    "mdHr": "border",
+    "mdListBullet": "accent",
+
+    "toolDiffAdded": "green",
+    "toolDiffRemoved": "red",
+    "toolDiffContext": "dim",
+
+    "syntaxComment": "syntaxComment",
+    "syntaxKeyword": "syntaxKeyword",
+    "syntaxFunction": "syntaxFunction",
+    "syntaxVariable": "text",
+    "syntaxString": "syntaxString",
+    "syntaxNumber": "syntaxNumber",
+    "syntaxType": "syntaxType",
+    "syntaxOperator": "syntaxPunctuation",
+    "syntaxPunctuation": "syntaxPunctuation",
+
+    "thinkingOff": "dim",
+    "thinkingMinimal": "muted",
+    "thinkingLow": "secondary",
+    "thinkingMedium": "accent",
+    "thinkingHigh": "syntaxKeyword",
+    "thinkingXhigh": "brightMagenta",
+    "thinkingMax": "brightMagenta",
+
+    "bashMode": "green"
+  },
+  "export": {
+    "pageBg": "#0B1120",
+    "cardBg": "#0F172A",
+    "infoBg": "#1E293B"
   }
 }

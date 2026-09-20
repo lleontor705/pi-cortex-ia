@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "workflow": "sdd-lite",
+  "change_id": "pi-native-adaptive-ux",
+  "spec_plane": "hybrid",
+  "pins": [
+    {
+      "transport": "workspace_file",
+      "project": "D:/lleontor705/pi-cortex-ia",
+      "locator": "openspec/changes/pi-native-adaptive-ux/plan.md",
+      "sha256": "514b397ae490be48d919271f839e433c34751885ca3dfd00e2b65973551deda7"
+    }
+  ],
+  "requirement_ids": [
+    "REQ-UX-001",
+    "REQ-UX-002",
+    "REQ-UX-004"
+  ]
+}

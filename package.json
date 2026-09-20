@@ -22,9 +22,17 @@
   ],
   "author": "Luis Leon",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lleontor705/pi-cortex-ia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lleontor705/pi-cortex-ia/issues"
+  },
+  "homepage": "https://github.com/lleontor705/pi-cortex-ia#readme",
   "pi": {
     "extensions": [
-      "./extensions"
+      "./extensions/index.ts"
     ],
     "themes": [
       "./themes"
